@@ -84,14 +84,24 @@ versiculos_lista = [('1','Tomai também o capacete da salvação, e a espada do 
                     ('83', 'Bendito seja o SENHOR Deus de Israel, de eternidade em eternidade, e todo o povo diga: Amém. Louvai ao SENHOR.Salmos 106:48'),
                     ('84', 'Louvar-Te-ei entre os povos, SENHOR, e a Ti cantarei louvores entre as nações.Salmos 108:3'),
                     ('85', 'O temor do SENHOR é o princípio da sabedoria; bom entendimento têm todos os que cumprem os Seus mandamentos; o Seu louvor permanece para sempre. Salmos 111:10'), #arquivo 6
-                    ('86', 'x'),
-                    ('87', 'x'),
-                    ('88', 'x'),
-                    ('89', 'x'),
-                    ('90', 'x'),
-
-
-                    ]
+                    ('86', 'Louvai ao SENHOR. Bem-aventurado o homem que teme ao SENHOR, que em Seus mandamentos tem grande prazer. Salmos 112:1'),
+                    ('87', 'Louvai ao SENHOR todas as nações, louvai-o todos os povos.Porque a sua benignidade é grande para conosco, e a verdade do Senhor dura para sempre. Louvai ao Senhor.Salmos 117:1-2'),
+                    ('88', 'Tu és o meu Deus, e eu Te louvarei: Tu és o meu Deus, e eu Te exaltarei. Salmos 118:28'),
+                    ('89', 'Assim os justos louvarão o Teu nome: os retos habitarão na Tua presença. Salmos 140:13'),
+                    ('90', 'Uma geração louvará as Tuas obras à outra geração, e anunciarão as Tuas proezas.Salmos 145:4'),
+                    ('91', 'ouvai ao SENHOR. Louvai, servos do SENHOR, louvai o nome do SENHOR.Salmos 113:1 '),
+                    ('92', 'Porque a Sua benignidade é grande para conosco, e a verdade do SENHOR dura para sempre. Louvai ao SENHOR.Salmos 117.2'),
+                    ('93', 'Inclinar-me-ei para o Teu santo templo, e louvarei o Teu nome pela Tua benignidade, e pela Tua verdade; pois engrandeceste a Tua palavra acima de todo o Teu nome. Salmos 138.2'),
+                    ('94', 'Cada dia Te bendirei, e louvarei o Teu nome pelos séculos dos séculos e para sempre.Salmos 145:2'),
+                    ('95', 'A minha boca falará o louvor do SENHOR, e toda a carne louvará o Seu santo nome pelos séculos dos séculos e para sempre.Salmos 145:21'),
+                    ('96', 'Desde o nascimento do sol até ao ocaso, seja louvado o nome do SENHOR. Salmos 113:3'),
+                    ('97', 'Louvai ao SENHOR, porque Ele é bom, porque a Sua benignidade dura para sempre.Salmos 118:1'),
+                    ('98', 'Eu Te louvarei, porque de um modo assombroso, e tão maravilhoso fui feito; maravilhosas são as Tuas obras, e a minha alma o sabe muito bem. Salmos 139:14'),
+                    ('99', 'Grande é o SENHOR, e muito digno de louvor, e a Sua grandeza inexcrutável.Salmos 145:3'),
+                    ('100', 'Louvarei ao SENHOR durante a minha vida; cantarei louvores ao meu Deus enquanto eu for vivo.Salmos 146:2 '),
+                    #('101', 'x'),
+                    #('102', 'x'),
+                   ]
 versiculos = dict(versiculos_lista)
 
 vers = random.choice(list(versiculos.values()))
