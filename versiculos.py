@@ -104,7 +104,7 @@ versiculos_lista = [('1','Tomai também o capacete da salvação, e a espada do 
                    ]
 versiculos = dict(versiculos_lista)
 
-#st.beta_set_page_config(page_title='VERSICULOS', page_icon='fir.png', layout='wide', initial_sidebar_state='collapsed')
+st.beta_set_page_config(page_title='VERSICULOS', page_icon='fir.png', layout='wide', initial_sidebar_state='collapsed')
 vers = random.choice(list(versiculos.values()))
 st.sidebar.title('Menu')
 paginaSelecionada = st.sidebar.selectbox('Selecione a página', ['Página 1','Página 2'])
